@@ -38,6 +38,15 @@ Licensed under the [MIT License](LICENSE)
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                **[Himanshu](https://himanshujaidka-github-io.vercel.app/)**                                                |
 
+
+## Contributors
+
+| <a href="https://himanshujaidka-github-io.vercel.app/"><img src="https://avatars.githubusercontent.com/himanshujaidka" width="150px" height="150px" /></a>  | <a href="https://hritik5102.github.io/"><img src="https://avatars.githubusercontent.com/hritik5102" width="150px" height="150px" /></a>  | <a href="https://github.com/devanshuruhela"><img src="https://avatars.githubusercontent.com/devanshuruhela" width="150px" height="150px" /></a> | <a href="https://hritik5102.github.io/"><img src="https://avatars.githubusercontent.com/azim2429" width="150px" height="150px" /></a> | <a href="https://adithyapai.com/"><img src="https://avatars.githubusercontent.com/adithyapaib" width="150px" height="150px" /></a> |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| **[Himanshu](https://himanshujaidka-github-io.vercel.app/)**                                                                                                | **[Hritik Jaiswal](https://hritik5102.github.io)**                                                                                       | **[Devanshu Ruhela](https://github.com/devanshuruhela)**                                                                                        | **[Abdul Azim](https://github.com/azim2429)**                                                                                         | **[Adithya Pai B](https://adithyapai.com/)**                                                                                       |
+
+
+
 <hr/>
 
 <p align="center">
