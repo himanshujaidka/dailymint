@@ -58,7 +58,7 @@ body{
 }
 .card {
 
-  background-color: #202020;
+  background-color: #323232;
 }
 .card-head{
   font-family: 'Montserrat', sans-serif;
@@ -68,10 +68,10 @@ body{
   font-family: 'Montserrat', sans-serif;
 }
 .cardlink{
-  color: #ffffff;
+  color: #14ffec;
 }
 .managelink{
-  color: #5af146;
+  color: #0d7377;
 }
 .low{
   color: #14ffec;
