@@ -10,7 +10,6 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link rel="icon" href="../images/icon.ico">
   <link rel="stylesheet" href="submit_news.css">
-  <link rel="stylesheet" href="../css/style.css">
   <!-- google fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,200&display=swap" rel="stylesheet">
@@ -24,7 +23,8 @@
 
   <title>Submit A News</title>
 </head>
-<body>
+<body onload="Captcha();">
+
     <section id="title">
 
         <div class="container-fluid">
@@ -96,8 +96,15 @@
             <input type="file" class="form-control" id="Upload_link">   
         </li>
         <li>
-            <button data-toggle="modal" data-target="#myModal" type="submit">Submit</button>
+          <label for="captcha">Captcha</label>
+          <div> 
+            <h2 type="text" id="mainCaptcha"></h2>
+            <button onclick="Captcha();"><i class="fas fa-redo-alt"></i></button>
+            <input type="text" id="txtInput"/>    
+            </div>
         </li>
+            <button data-toggle="modal" data-target="#myModal" type="submit" value="Check" onclick="alert(validCaptcha());">Submit</button>
+        </li> 
     </ul>
 </form>
 <div class="modal fade" id="myModal" role="dialog">
@@ -115,5 +122,7 @@
     </div>
   </div>
   <br><br>
+
+  <script type="text/javascript" src = "submit_news.js"></script>
 </body>
 </html>

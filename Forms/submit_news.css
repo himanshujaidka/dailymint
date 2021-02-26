@@ -7,7 +7,7 @@ body {
 form {
 	margin: 0 auto;
     width: 700px;
-    height: 570px;
+    height: 700px;
 	background-color: #323232;
 	padding: 20px;
 	border-radius: 1rem;
@@ -104,3 +104,9 @@ textarea {
 		height: 570px;
 	}
 }
+
+#mainCaptcha{
+	color: #ffff;
+	position: relative;
+}
+
